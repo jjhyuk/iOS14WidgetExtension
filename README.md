@@ -8,7 +8,7 @@ iOS14WidgetExtension: WidgetExtension의 기본 구조 확인해보기
 
 1) Project -> Taget 추가 -> 'Widget Extionsion' 검색 후 추가
 * 'Edit Configuration Intent' 체크 해제!!
-* 다른 글을 통해 확인해
+* 사용자와 상호작용하는 Configuration Intent 는 다른 글을 통해 확인!!
 
 ![](AddWidgetExtensionTaget.png)
 
