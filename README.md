@@ -194,7 +194,7 @@ func getTimeline(in context: Context, completion: @escaping (Timeline<Entry>) ->
     }
 ```
 
-4. View 설정
+5. View 설정
 ```swift
 struct TestWidgetEntryView : View {
     var entry: Provider.Entry
